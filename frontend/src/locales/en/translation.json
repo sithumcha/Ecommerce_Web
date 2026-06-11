@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "search": "Search products...",
+    "shop": "Shop",
+    "categories": "Categories",
+    "dashboard": "Dashboard",
+    "profile": "My Profile",
+    "logout": "Log Out",
+    "login": "Sign In"
+  },
+  "home": {
+    "hero_title": "Discover Your Next",
+    "hero_highlight": "Favorite Thing",
+    "hero_subtitle": "Experience premium shopping with our curated collection of high-quality products.",
+    "shop_now": "Shop Now",
+    "view_collections": "View Collections",
+    "shop_by_collection": "Shop by Collection",
+    "explore_categories": "Explore our wide range of categories",
+    "featured_products": "Featured Products",
+    "discover_best": "Discover our best-selling and most popular items",
+    "join_nexus": "Join Nexus",
+    "see_all": "See All",
+    "environmental_promise": "Environmental Promise",
+    "eco_title": "Every Purchase Offsets carbon footprints",
+    "eco_desc": "We partner with reforestation coalitions to plant one tree for every transaction finalized. By selecting NexusCart, you acquire premium utility gear while contributing directly to international clean air programs.",
+    "eco_point_1": "Zero plastic shipping bags",
+    "eco_point_2": "Solar powered data warehouse nodes",
+    "eco_point_3": "Locally sourced product catalog loops",
+    "reforestation": "Reforestation Coalitions",
+    "reforestation_desc": "Rebuilding natural biomes and offsetting commercial emissions worldwide.",
+    "what_customers_say": "What Customers Say",
+    "verified_feedback": "Read positive feedbacks from verified members of the platform."
+  },
+  "shop": {
+    "title": "Shop Catalog",
+    "subtitle": "Discover our premium collection of handpicked products.",
+    "filters": "Filters",
+    "categories": "Categories",
+    "price_range": "Price Range",
+    "brands": "Brands",
+    "clear_filters": "Clear All",
+    "no_products": "No products found matching your criteria.",
+    "loading": "Loading more products...",
+    "reset": "Reset",
+    "search": "Search",
+    "search_placeholder": "Search item...",
+    "min": "Min"
+  }
+}
