@@ -4,6 +4,43 @@ NexusCart is a modern, fully-featured **MERN Stack** (MongoDB, Express, React, N
 
 ---
 
+## 📸 Screen Previews
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>Home Page (Light Mode)</b><br/>
+      <img src="screenshots/home_light.png" alt="Home Page Light Mode" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>Home Page (Dark Mode)</b><br/>
+      <img src="screenshots/home_dark.png" alt="Home Page Dark Mode" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Shop / Product Catalog</b><br/>
+      <img src="screenshots/shop.png" alt="Shop Page" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>Login / Register</b><br/>
+      <img src="screenshots/login.png" alt="Login Page" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>Admin Dashboard Analytics</b><br/>
+      <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>Admin Product Management</b><br/>
+      <img src="screenshots/admin_products.png" alt="Admin Product Management" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Key Features
 
 ### 🎮 Gamified Loyalty System (Eco-Points)
